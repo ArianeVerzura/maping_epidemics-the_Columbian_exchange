@@ -1,0 +1,4 @@
+pandas==1.0.5
+bokeh==2.2.3
+numpy==1.18.5
+watermark==2.1.0
